@@ -12,14 +12,14 @@
 ## 🚀 App Screenshots
 
 <p align="center">
-  <img src="assets/screens/home.png" width="220" />
+  <img src="assets/screens/home.jpg" width="220" />
   <img src="assets/screens/insights.png" width="220" />
   <img src="assets/screens/questionnaire.png" width="220" />
 </p>
 <p align="center">
   <img src="assets/screens/invest.png" width="220" />
-  <img src="assets/screens/invest2.png" width="220" />
-  <img src="assets/screens/invest3.png" width="220" />
+  <img src="assets/screens/invest2.jpg" width="220" />
+  <img src="assets/screens/invest3.jpg" width="220" />
 </p>
 <p align="center">
   <img src="assets/screens/markets.png" width="220" />
