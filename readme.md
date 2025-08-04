@@ -9,6 +9,18 @@
 - 📊 Interactive charts for asset allocation, performance, and market trends
 - ⚡ Live financial data integration for market-aware insights
 
+## 🧪 Final Model Results
+### 📈 Predictive accuracy
+| **Evaluation Metric** | **Score Before Tuning**<br>(Training Set 10-Fold CV Mean) | **Score After Tuning**<br>(Training Set 10-Fold CV Mean) | **Score After Tuning**<br>(Test Set) |
+| --------------------- | --------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------ |
+| **R²**                | 0.8296                                                    | 0.8349                                                   | 0.8395                               |
+| **-RMSE**             | -0.1297                                                   | -0.1282                                                  | -0.1277                              |
+| **-MSE**              | -0.0174                                                   | -0.0172                                                  | -0.0163                              |
+| **-MAE**              | -0.0528                                                   | -0.0524                                                  | -0.0519                              |
+
+### 📊 Feature Importances
+![Home](assets/results/feature-importances.png)
+
 ## 🚀 App Screenshots
 
 <p align="center">
